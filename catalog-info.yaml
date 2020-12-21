@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: asdkjlfjkn
+  description: dkj
+  annotations: 
+    github.com/project-slug: skalingclouds/micro
+    backstage.io/github-actions-id: skalingclouds/micro
+spec:
+  type: service
+  lifecycle: experimental
+  owner: sdfdsfa
